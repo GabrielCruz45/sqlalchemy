@@ -5,4 +5,4 @@ June 17, 2025
 
     Tetsting if can do git push to remote repo. All good, on to the tutorial
 
-    The tutorial is showing legacy code, will sqitch to SQLAlchemy documentation. (https://docs.sqlalchemy.org/en/14/orm/quickstart.html)
+    The tutorial is showing legacy code, will sqitch to SQLAlchemy documentation. (https://docs.sqlalchemy.org/en/20/orm/quickstart.html)
