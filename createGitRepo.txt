@@ -1,0 +1,22 @@
+Create new loca,=l repo
+    git init -b main
+
+
+Stage all files in the current directory
+    git add .
+
+
+Commit the staged files with a message
+    git commit -m "Initial commit"
+
+
+Add the remote repository URL under the alias "origin"
+    git remote add origin https://github.com/your-username/your-repo-name.git
+
+
+Push your "main" branch to the remote "origin"
+    git push -u origin main
+
+
+If remote branch is different before linking with local
+    git pull origin main --rebase
